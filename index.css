@@ -13,11 +13,3 @@ body{
     border: none;
     margin-bottom: 0;
 }
-.bottomlink{
-    display: flex;
-    justify-content:space-between;
-    margin-left:100px;
-    margin-right:100px;
-    padding-bottom:100px;
-    padding-top:100p;
-}
